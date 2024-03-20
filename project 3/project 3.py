@@ -1,4 +1,5 @@
 from turtle import *
+#I want to have a triangle drawn because I don't know when it will come in handy
 
 speed(7)
 width(7)
